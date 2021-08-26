@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Weather App</string>
-    <string name="_33_degree">33°</string>
+    <string name="main_degree">19°</string>
+    <string name="sub_degree">8°/21°</string>
     <string name="images">images</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="_12_59">12:59</string>
+    <string name="monday">Monday</string>
+    <string name="septemler_29">Septemler 29</string>
+    <string name="last_update_monday_september_29_2020_12_59">Last Update Monday, September 29,2020 12:59</string>
 </resources>
