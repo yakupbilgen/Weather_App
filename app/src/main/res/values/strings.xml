@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="_33_degree">33°</string>
+    <string name="images">images</string>
+</resources>
